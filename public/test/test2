@@ -1,0 +1,17 @@
+.ddyouping_rightbuy {float:left;width:218px;height:458px;margin-left:10px;border:1px solid #f5f5f5;overflow:hidden;}
+.ddyouping_rightbuy .ddyouping_rightbuy_title {background-color: #f5f5f5;padding-left:8px;height:20px; line-height:20px; overflow:hidden;}
+.ddyouping_rightbuy .list_ab li{width:188px;border-bottom: 1px dotted #dddddd;padding:10px 0 10px 10px;margin-left:10px; overflow:hidden;}
+.ddyouping_rightbuy .list_aa li{width:157px;}
+.ddyouping_rightbuy li .num {float:left;width:16px;}
+.ddyouping_rightbuy .list_aa li .name a{color: #565656;}
+.ddyouping_rightbuy_content .shoufengqing_product .img img {width: 150px;height: 150px;border:1px solid #f5f5f5}
+.ddyouping_rightbuy .shoufengqing_title li{border:none;padding:0;height:20px;overflow:hidden; line-height:20px;width:154px; float:left;}
+.ddyouping_rightbuy .shoufengqing_product li {border-bottom: none!important;padding-bottom:0;}
+.ddyouping_rightbuy .shoufengqing_title .name {height: 16px;overflow: hidden;}
+.ddyouping_rightbuy .shoufengqing_title .name a {color: #565656;}
+.ddyouping_rightbuy .shoufengqing_product .name {width: 150px;line-height: 18px;height:36px;overflow:hidden;}
+.ddyouping_rightbuy .shoufengqing_product .name a {color: #565656;}
+.ddyouping_rightbuy .shoufengqing_product .price .rob .num {float: none;margin:0;}
+.ddyouping_rightbuy .shoufengqing_product .price .rob .sign{margin-right:1px;}
+.ddyouping_rightbuy .shoufengqing_product .price .rob {color:red;}
+.ddyouping_rightbuy li.on .num{display:none;}
