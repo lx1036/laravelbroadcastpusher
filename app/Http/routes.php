@@ -34,5 +34,6 @@ Route::controller('notifications', 'NotificationController');
 Route::controller('activities', 'ActivityController');
 Route::controller('chat', 'ChatController');
 
+
 Route::get('auth/github', 'Auth\AuthController@redirectToProvider');
 Route::get('auth/github/callback', 'Auth\AuthController@handleProviderCallback');
